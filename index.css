@@ -188,14 +188,14 @@ position: absolute;
 {
 	
 	height:250px ;  
-     width: 350px;
+     width: 250px;
 
 }
 .ori
 {
 	height:20px;
 	width: 50px;
-	margin-left: 270px;
+	margin-left: 180px;
 	/*margin-bottom: 900px;*/
     margin-top: 120px;
 	position: absolute;
@@ -206,13 +206,13 @@ position: absolute;
 	text-align: right;
 	position: absolute;
 	margin-top: 150px;
-	margin-left: 190px;
-	font-size: 7px;
+	margin-left: 135px;
+	font-size: 5px;
 }
 .compu2
 {
-	width: 200px;
-	height:200px;
+	width: 140px;
+	height:140px;
 	margin-left:0px;
 	margin-top: 270px;
 	
@@ -222,12 +222,12 @@ position: absolute;
 border: 2px solid black;
 height: 80px;
 width: 190px;
-margin-top: 320px;
-margin-left: 130px;
+margin-top: 300px;
+margin-left: 50px;
 background-color: black;
 color: skyblue;
 font-size: 8px;
-word-spacing: 3px;
+/*word-spacing: 3px;*/
 
 }
 .sen
@@ -235,15 +235,15 @@ word-spacing: 3px;
 	font-size: 7px;
 	text-align: center;
 	color: black;
-	margin-top: 470px;
-	margin-left: 35px;
-	margin-right:35px;
+	margin-top: 410px;
+	margin-left: 1px;
+	margin-right:120px;
 }
 .compu3
 {   
-	height:200px ;  
-     width: 350px;
-	margin-top: 520px;
+	height:150px ;  
+     width: 250px;
+	margin-top: 460px;
 	
 }
 .sen2
@@ -251,30 +251,30 @@ word-spacing: 3px;
     font-size: 7px;
 	text-align: center;
 	color: black;
-	margin-top: 725px;
-	margin-left: 35px;
-	margin-right:35px;
+	margin-top: 610px;
+	margin-left: 1px;
+	margin-right:120px;
 
 }
 .compu4
 {
-	height: 180px;
-	width: 180px;
-	margin-top: 780px;
+	height: 120px;
+	width: 130px;
+	margin-top: 670px;
 
 }
 .box1
 {
-	width: 100px;
-	height:100px;
+	width: 80px;
+	height:80px;
 	color: white;
-	margin-top: 820px;
-	margin-left: 30px;
+	margin-top: 690px;
+	margin-left: 20px;
 	background: rgba(0, 0, 0, 0.5);
 }
 .con
 {
-	font-size: 7px;
+	font-size: 6px;
 	margin-top: 15px;
 	text-align: center;
 	margin-left: 10px;
@@ -283,23 +283,23 @@ word-spacing: 3px;
 }
 .compu5
 {
-	height: 180px;
-	width: 170px;
-	margin-top: 780px;
-    margin-left: 180px;	
+	height: 120px;
+	width: 120px;
+	margin-top: 670px;
+    margin-left: 130px;	
 }
 .box2
 {
-	width: 100px;
-	height:100px;
+	width: 80px;
+	height:80px;
 	color: white;
-	margin-top: 820px;
-	margin-left: 220px;
+	margin-top: 690px;
+	margin-left: 150px;
 	background: rgba(0, 0, 0, 0.5);
 }
 .con2
 {
-	font-size: 7px;
+	font-size: 6px;
 	margin-top: 15px;
 	text-align: center;
 	margin-left: 10px;
@@ -310,8 +310,8 @@ word-spacing: 3px;
 {
 	text-align:center;
 	font-size: 6px;
-	margin-top: 960px;
-	margin-left: 90px;
+	margin-top: 790px;
+	margin-left: 50px;
 
 }
 .ab1
@@ -321,35 +321,35 @@ height: 22px;
 width: 45px;
 font-size: 9px;
 color: red;
-margin-left: 150px;
-margin-top: 990px;
+margin-left: 100px;
+margin-top: 820px;
 }
 .cor
 {
 font-size: 10px;
-margin-top: 1010px;
-margin-left: 50px;
+margin-top: 840px;
+margin-left: 10px;
 }
 .rd
 {
 font-size: 10px;
-margin-top: 1010px;
-margin-left: 250px;
+margin-top: 840px;
+margin-left: 170px;
 }
 .addr
 {
 	font-size:8px ;
-	margin-top: 1030px;
-	margin-left: 50px;
-	margin-right: 900px;
+	margin-top: 860px;
+	margin-left: 10px;
+/*	margin-right: 900px;*/
 	
 }
 .addr2
 {
 	font-size:8px ;
-	margin-top: 1030px;
-	margin-left: 250px;
-	margin-right: 400px;
+	margin-top: 860px;
+	margin-left: 170px;
+	/*margin-right: 400px;*/
 	
 }
 
