@@ -188,7 +188,7 @@ position: absolute;
 {
 	
 	height:250px ;  
-     width: 420px;
+     width: 400px;
 
 }
 .ori
@@ -211,7 +211,7 @@ position: absolute;
 }
 .compu2
 {
-	width: 180px;
+	width: 190px;
 	height:140px;
 	margin-left:20px;
 	margin-top: 270px;
@@ -223,7 +223,7 @@ border: 2px solid black;
 height: 90px;
 width: 230px;
 margin-top: 290px;
-margin-left: 170px;
+margin-left: 140px;
 background-color: black;
 color: skyblue;
 font-size: 8px;
@@ -235,14 +235,14 @@ font-size: 8px;
 	font-size: 7px;
 	color: black;
 	margin-top: 410px;
-	margin-left: 10px;
-	margin-right: 70px;
+	margin-left: 30px;
+	margin-right: 30px;
 	text-align: center;
 }
 .compu3
 {   
 	height:150px ;  
-     width: 420px;
+     width: 400px;
 	margin-top: 460px;
 	
 }
@@ -251,8 +251,8 @@ font-size: 8px;
     font-size: 7px;
 	color: black;
 	margin-top: 610px;
-	margin-left: 10px;
-	margin-right: 70px;
+	margin-left: 30px;
+	margin-right: 30px;
 	text-align: center;
 
 }
@@ -286,7 +286,7 @@ font-size: 8px;
 	height: 120px;
 	width: 210px;
 	margin-top: 670px;
-    margin-left: 200px;	
+    margin-left: 190px;	
 }
 .box2
 {
@@ -294,7 +294,7 @@ font-size: 8px;
 	height:80px;
 	color: white;
 	margin-top: 690px;
-	margin-left: 270px;
+	margin-left: 250px;
 	background: rgba(0, 0, 0, 0.5);
 }
 .con2
@@ -311,7 +311,7 @@ font-size: 8px;
 	text-align:center;
 	font-size: 6px;
 	margin-top: 790px;
-	margin-left: 130px;
+	margin-left: 110px;
 
 }
 .ab1
