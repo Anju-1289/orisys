@@ -51,11 +51,11 @@ position: absolute;
 .sen
 {
 	font-size: 16px;
-	text-align: center;
+	/*text-align: center;*/
 	color: black;
 	margin-top: 1050px;
 	margin-left: 140px;
-	margin-right:140px;
+	/*margin-right:140px;*/
 	position: absolute;
 }
 .compu3
@@ -66,11 +66,11 @@ position: absolute;
 .sen2
 {
     font-size: 16px;
-	text-align: center;
+	/*text-align: center;*/
 	color: black;
 	margin-top: 1730px;
 	margin-left: 140px;
-	margin-right:140px;
+	/*margin-right:140px;*/
 	position: absolute;
 }
 .compu4
@@ -188,14 +188,14 @@ position: absolute;
 {
 	
 	height:250px ;  
-     width: 250px;
+     width: 300px;
 
 }
 .ori
 {
 	height:20px;
 	width: 50px;
-	margin-left: 180px;
+	margin-left: 215px;
 	/*margin-bottom: 900px;*/
     margin-top: 120px;
 	position: absolute;
@@ -206,7 +206,7 @@ position: absolute;
 	text-align: right;
 	position: absolute;
 	margin-top: 150px;
-	margin-left: 135px;
+	margin-left: 170px;
 	font-size: 5px;
 }
 .compu2
@@ -223,7 +223,7 @@ border: 2px solid black;
 height: 80px;
 width: 190px;
 margin-top: 300px;
-margin-left: 50px;
+margin-left: 100px;
 background-color: black;
 color: skyblue;
 font-size: 8px;
@@ -233,39 +233,39 @@ font-size: 8px;
 .sen
 {
 	font-size: 7px;
-	text-align: center;
 	color: black;
 	margin-top: 410px;
-	margin-left: 1px;
-	margin-right:120px;
+	margin-left: 10px;
+	margin-right: 50px;
+	text-align: center;
 }
 .compu3
 {   
 	height:150px ;  
-     width: 250px;
+     width: 300px;
 	margin-top: 460px;
 	
 }
 .sen2
 {
     font-size: 7px;
-	text-align: center;
 	color: black;
 	margin-top: 610px;
-	margin-left: 1px;
-	margin-right:120px;
+	margin-left: 10px;
+	margin-right: 50px;
+	text-align: center;
 
 }
 .compu4
 {
 	height: 120px;
-	width: 130px;
+	width: 150px;
 	margin-top: 670px;
 
 }
 .box1
 {
-	width: 80px;
+	width: 100px;
 	height:80px;
 	color: white;
 	margin-top: 690px;
@@ -284,17 +284,17 @@ font-size: 8px;
 .compu5
 {
 	height: 120px;
-	width: 120px;
+	width: 150px;
 	margin-top: 670px;
-    margin-left: 130px;	
+    margin-left: 150px;	
 }
 .box2
 {
-	width: 80px;
+	width: 100px;
 	height:80px;
 	color: white;
 	margin-top: 690px;
-	margin-left: 150px;
+	margin-left: 180px;
 	background: rgba(0, 0, 0, 0.5);
 }
 .con2
@@ -311,14 +311,14 @@ font-size: 8px;
 	text-align:center;
 	font-size: 6px;
 	margin-top: 790px;
-	margin-left: 50px;
+	margin-left: 70px;
 
 }
 .ab1
 {
 border: 3px solid red;
 height: 22px;
-width: 45px;
+width: 50px;
 font-size: 9px;
 color: red;
 margin-left: 100px;
@@ -334,7 +334,7 @@ margin-left: 10px;
 {
 font-size: 10px;
 margin-top: 840px;
-margin-left: 170px;
+margin-left: 190px;
 }
 .addr
 {
@@ -348,7 +348,7 @@ margin-left: 170px;
 {
 	font-size:8px ;
 	margin-top: 860px;
-	margin-left: 170px;
+	margin-left: 190px;
 	/*margin-right: 400px;*/
 	
 }
